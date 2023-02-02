@@ -4,7 +4,7 @@
 </p>
 <p align="center">
     <a aria-label="License" href="https://github.com/UrijHoruzij/wp-theme-template/blob/master/LICENSE">
-      <img alt="GitHub" src="https://img.shields.io/github/license/UrijHoruzij/wp-theme-template?color=fec057">
+      <img alt="GitHub" src="https://img.shields.io/github/license/UrijHoruzij/wp-theme-template?color=0197fd">
     </a>
   </p>
 
